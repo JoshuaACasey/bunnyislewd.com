@@ -4,7 +4,7 @@ tagline = ""
 description = "Bunnyislewd is a shy 21-year-old adult content creator that is kink-friendly and loves video games"
 +++
 
-<!-- <img src="images/bunnyislewd.jpg" alt="Bunny tongue out" width="200" height="200" /> --> Hi, I'm Bunny! I'm a shy 21-year-old adult content creator that is very kink friendly and loves video games. I've been streaming on [Chaturbate](https://chaturbate.com/bunnyislewd) since I was 18. I can be shy at times but I love to interact so please don't be afraid to talk to me!
+<!-- <img src="images/bunnyislewd.jpg" alt="Bunny tongue out" width="200" height="200" /> --> Hi, I'm Bunny! I'm a cute adult content creator that is very kink friendly and loves video games. I've been streaming on [Chaturbate](https://chaturbate.com/bunnyislewd) since I was 18. I can be shy at times but I love to interact so please don't be afraid to talk to me!
 # Info  
 
 - Birthday: August 18, 2001  
@@ -14,7 +14,7 @@ description = "Bunnyislewd is a shy 21-year-old adult content creator that is ki
 
 # Cam schedule  
 
-I stream in the pacific west coast time. Your best bet is to follow me on [Snapchat](https://snapchat.com/add/bunnyislewd) so you get notified when I go live. You can also follow me on [Twitter](https://twitter.com/bunnyislewd) or follow me on Chaturbate so you get email notifications.
+I stream in the pacific west coast time. You should follow me on [Snapchat](https://snapchat.com/add/bunnyislewd) so you get notified when I go live. You can also follow me on [Twitter](https://twitter.com/bunnyislewd) or follow me on Chaturbate so you get email notifications when I go live.  
 
 # Check out my profiles  
 
@@ -31,5 +31,5 @@ I stream in the pacific west coast time. Your best bet is to follow me on [Snapc
 
 # Want to buy me a gift?  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
-- [Cashapp $bunnyislewd](https://cash.app/$BunnyisLewd)  
+- [Cashapp \$bunnyislewd](https://cash.app/$BunnyisLewd)  
 
