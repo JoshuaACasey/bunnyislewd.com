@@ -31,8 +31,8 @@ copyright = "&copy;2022 Bunnyislewd"
 
     # Image
     [params.visual.image]
-      enable = false
-      file = "images/background.jpg"
+      enable = true
+      file = "images/bunnyislewd.jpg"
       position = "center center"
 
     # Video
