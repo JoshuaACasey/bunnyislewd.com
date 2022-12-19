@@ -4,8 +4,8 @@ tagline = ""
 description = "Bunnyislewd is a shy 21-year-old adult content creator that is kink-friendly and loves video games"
 +++
 
-![Bunny tongue out](images/bunnyislewd.jpg =200x300) Hi, I'm Bunny! I'm a shy 21-year-old adult content creator that is very kink friendly and loves video games. I've been streaming on [Chaturbate](https://chaturbate.com/bunnyislewd) since I was 18. I can be shy at times but I love to interact so please don't be afraid to talk to me!
-# Stats  
+<img src="images/bunnyislewd.jpg" alt="Bunny tongue out" width="200" height="200" /> Hi, I'm Bunny! I'm a shy 21-year-old adult content creator that is very kink friendly and loves video games. I've been streaming on [Chaturbate](https://chaturbate.com/bunnyislewd) since I was 18. I can be shy at times but I love to interact so please don't be afraid to talk to me!
+# Info  
 
 - Birthday: August 18, 2001  
 - Body type: Petite with small tits  
