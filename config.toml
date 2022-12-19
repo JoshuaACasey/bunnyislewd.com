@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://bunnyislewd.pages.dev"
 languageCode = "en-US"
-title = "Bunnyislewd cam girl"
+title = "Bunnyislewd adult content creator"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -45,33 +45,33 @@ copyright = "&copy;2022 Bunnyislewd"
   # Links
   #
   # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Connect"
+#  [[params.links]]
+#    [params.links.list1]
+#      heading = "Connect"
 
-      [[params.links.list1.link]]
-        text = "Chaturbate"
-        url = "https://chaturbate.com/bunnyislewd/"
+#      [[params.links.list1.link]]
+#        text = "Chaturbate"
+#        url = "https://chaturbate.com/bunnyislewd/"
 
-      [[params.links.list1.link]]
-        text = "Onlyfans"
-        url = "https://onlyfans.com/bunnyislewd"
+#      [[params.links.list1.link]]
+#        text = "Onlyfans"
+#        url = "https://onlyfans.com/bunnyislewd"
 
-      [[params.links.list1.link]]
-        text = "Twitch"
-        url = "https://www.twitch.tv/bunnyisgaming"
+#      [[params.links.list1.link]]
+#        text = "Twitch"
+#        url = "https://www.twitch.tv/bunnyisgaming"
       
-      [[params.links.list1.link]]
-        text = "Peach"
-        url = "https://peach.com/bunnyislewd"
+#      [[params.links.list1.link]]
+#        text = "Peach"
+#        url = "https://peach.com/bunnyislewd"
 
-      [[params.links.list1.link]]
-        text = "Manyvids"
-        url = "https://www.manyvids.com/Activity/bunnyislewd/1003105966/"
+#      [[params.links.list1.link]]
+#        text = "Manyvids"
+#        url = "https://www.manyvids.com/Activity/bunnyislewd/1003105966/"
 
-      [[params.links.list1.link]]
-        text = "Wishlist"
-        url = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV"
+#      [[params.links.list1.link]]
+#        text = "Wishlist"
+#        url = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV"
 
   # Links List #2
   #[[params.links]]
