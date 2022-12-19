@@ -94,7 +94,7 @@ copyright = "&copy;2022 Bunnyislewd"
 
       [[params.links.list3.link]]
         text = "Email me about custom content"
-        url = "bunnyislewd@yahoo.com"
+        url = "mailto:bunnyislewd@yahoo.com"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.

@@ -31,5 +31,5 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 
 # Want to buy me a gift?  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
-- [Cashapp \$bunnyislewd](https://cash.app/$BunnyisLewd)  
+- [Cashapp $bunnyislewd](https://cash.app/$BunnyisLewd)  
 
