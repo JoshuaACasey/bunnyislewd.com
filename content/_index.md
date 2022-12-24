@@ -23,7 +23,8 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 - [Chaturbate](https://chaturbate.com/bunnyislewd/)  
 - [Onlyfans](https://onlyfans.com/bunnyislewd)  
 - [Twitch](https://twitch.tv/bunnyisgaming)  
-- [Manyvids](https://www.manyvids.com/Activity/bunnyislewd/1003105966/)
+- [Manyvids](https://www.manyvids.com/Activity/bunnyislewd/1003105966/)  
+- [Instagram](https://instagram.com/bunnyisgaming)  
 
 # I do customs!  
 

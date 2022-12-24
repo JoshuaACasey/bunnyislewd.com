@@ -13,7 +13,7 @@ uglyURLs = true
 #googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2022 Bunnyislewd"
+copyright = "&copy;2023 Bunnyislewd"
 
 [params]
 
@@ -70,6 +70,10 @@ copyright = "&copy;2022 Bunnyislewd"
       [[params.links.list2.link]]
         text = "Twitter"
         url = "https://twitter.com/bunnyislewd"
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "https://instagram.com/bunnyisgaming"
 
       [[params.links.list2.link]]
         text = "Snapchat"
