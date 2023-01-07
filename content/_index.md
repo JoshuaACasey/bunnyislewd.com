@@ -28,7 +28,7 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 
 # I do customs!  
 
-- Email me to inquire about customs: bunnyislewd@yahoo.com  
+- Email me to inquire about customs: bunny@bunnyislewd.com  
 
 # Want to buy me a gift?  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
