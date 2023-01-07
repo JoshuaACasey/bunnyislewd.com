@@ -9,3 +9,6 @@
 
 https://bunnyislewd.pages.dev/*
   X-Robots-Tag: noindex
+
+https://*.bunnyislewd.pages.dev/*
+  X-Robots-Tag: noindex
