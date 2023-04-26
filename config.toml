@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://bunnyislewd.pages.dev"
+baseURL = "https://bunnyislewd.com"
 languageCode = "en-US"
-title = "Bunnyislewd adult content creator"
+title = "Bunnyislewd adult online content creator"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -19,7 +19,7 @@ copyright = "&copy;2023 Bunnyislewd. All Rights Reserved."
 
   # Metadata for search engines and social sharing
   author = "Bunnyislewd"
-  description = "Bunnyislewd is an 18+ adult creator"
+  description = "Bunnyislewd is an 18+ adult online content creator"
   shareImage = "images/social.jpg"
   twitterHandle = "bunnyislewd"
 
@@ -60,7 +60,10 @@ copyright = "&copy;2023 Bunnyislewd. All Rights Reserved."
       [[params.links.list1.link]]
         text = "Twitch"
         url = "https://www.twitch.tv/bunnyisgaming"
-      
+
+        [[params.links.list1.link]]
+          text = "Manyvids"
+          url = "https://www.manyvids.com/Activity/bunnyislewd/1003105966/"
 
   # Links List #2
   [[params.links]]
@@ -90,11 +93,7 @@ copyright = "&copy;2023 Bunnyislewd. All Rights Reserved."
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Buy Content"
-
-      [[params.links.list3.link]]
-        text = "Manyvids"
-        url = "https://www.manyvids.com/Activity/bunnyislewd/1003105966/"
+      heading = "Contact"
 
       [[params.links.list3.link]]
         text = "Email me about custom content"
