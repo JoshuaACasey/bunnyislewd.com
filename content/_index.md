@@ -1,6 +1,6 @@
 +++
 title = "Bunnyislewd"
-tagline = "18+, kink-friendly, and shy"
+tagline = "18+ kink-friendly and shy"
 description = "Bunnyislewd is a shy 18+ adult online content creator that is kink-friendly and loves video games"
 +++
 
