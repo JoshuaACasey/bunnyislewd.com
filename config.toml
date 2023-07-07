@@ -3,7 +3,7 @@ baseURL = "https://bunnyislewd.com"
 languageCode = "en-US"
 title = "Bunnyislewd adult online content creator"
 theme = "hugo-split-theme"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+disableKinds = ["section","taxonomy","taxonomyTerm","RSS","sitemap"]
 
 # Local preview mode
 relativeURLs = true
@@ -97,7 +97,7 @@ copyright = "&copy;2023 Bunnyislewd. All Rights Reserved."
 
       [[params.links.list3.link]]
         text = "Email me about custom content"
-        url = "mailto:bunny@bunnyislewd.com"
+        url = "mailto:bunnyislewd@outlook.com"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.

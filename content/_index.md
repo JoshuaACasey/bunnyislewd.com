@@ -1,6 +1,6 @@
 +++
 title = "Bunnyislewd"
-tagline = ""
+tagline = "18+, kink-friendly, and shy"
 description = "Bunnyislewd is a shy 18+ adult online content creator that is kink-friendly and loves video games"
 +++
 
@@ -30,7 +30,7 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 
 # I do customs!  
 
-- Email me to inquire about customs: bunny@bunnyislewd.com  
+- Email me to inquire about customs: bunnyislewd@outlook.com  
 
 # Want to buy me a gift?  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
