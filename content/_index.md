@@ -4,14 +4,14 @@ tagline = "18+ kink-friendly and shy"
 description = "Bunnyislewd is a shy 18+ adult online content creator that is kink-friendly and loves video games"
 +++
 
-<!-- <img src="images/bunnyislewd.jpg" alt="Bunny tongue out" width="200" height="200" /> --> Hi, I'm Bunny! I'm a cute adult online content creator that is very kink friendly and loves video games. I've been streaming on [Chaturbate](https://chaturbate.com/bunnyislewd) since I was 18. I can be shy at times but I love to interact so please don't be afraid to talk to me!
+<!-- <img src="images/bunnyislewd.jpg" alt="Bunny tongue out" width="200" height="200" /> --> Hi, I'm Bunny! I'm a cute adult online content creator that is very kink friendly and loves video games. I've been streaming on [Chaturbate](https://chaturbate.com/bunnyislewd) and creating [Onlyfans](https://onlyfans.com/bunnyislewd) since not too long after I turned 18. I can be shy at times but I love to interact so please don't be afraid to talk to me!
 
 # About Me  
 
 - Birthday: August 18, 2001  
 - Body type: Petite with small tits  
 - Smoke / Drink: yes  
-- Body decorations: pierced nipple  
+- Body decorations: tattoos
 
 
 # Cam schedule  
