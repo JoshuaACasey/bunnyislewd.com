@@ -13,14 +13,14 @@ uglyURLs = true
 #googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2023 Bunnyislewd. All Rights Reserved."
+copyright = '&copy;2023 Bunnyislewd. All Rights Reserved. <a href="rtalabel.org" target="_blank" name="Restricted To Adults" rel="noreferrer nofollow"><img src="rtalabel.gif" /></a>'
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Bunnyislewd"
   description = "Bunnyislewd is an 18+ adult online content creator"
-  shareImage = "images/social.jpg"
+  shareImage = "images/Eg4YvLNUcAAbebk.jpg"
   twitterHandle = "bunnyislewd"
 
   # Favicon
@@ -32,7 +32,7 @@ copyright = "&copy;2023 Bunnyislewd. All Rights Reserved."
     # Image
     [params.visual.image]
       enable = true
-      file = "images/bunnyislewd.jpg"
+      file = "images/3840x2880_75e654a23a69dfe105e93515d0268f1e.jpg"
       position = "center center"
 
     # Video
