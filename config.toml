@@ -75,16 +75,16 @@ copyright = '&copy;2023 Bunnyislewd. All Rights Reserved. <a href="https://rtala
         url = "https://twitter.com/bunnyislewd"
 
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "https://instagram.com/bunnyisgaming"
-
-      [[params.links.list2.link]]
         text = "Snapchat"
         url = "https://snapchat.com/add/bunnyislewd"
 
       [[params.links.list2.link]]
         text = "Cashapp"
         url = "https://cash.app/$Bunnyislewd"
+
+        [[params.links.list2.link]]
+      text = "Wishtender Wishlist"
+      url = "https://www.wishtender.com/Bunnyislewd"
 
       [[params.links.list2.link]]
         text = "Amazon Wishlist"
