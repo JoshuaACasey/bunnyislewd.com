@@ -17,7 +17,7 @@ description = "Bunnyislewd is a shy 18+ adult online content creator that is kin
 
 # Cam schedule  
 
-I stream in the pacific west coast time. You should follow me on [Snapchat](https://snapchat.com/add/bunnyislewd) so you get notified when I go live. You can also follow me on [Twitter](https://twitter.com/bunnyislewd) or follow me on Chaturbate so you get email notifications when I go live.  
+I stream in the pacific west coast time. You should follow me on [Snapchat](https://snapchat.com/add/bunnyislewd) so you get notified when I go live. You can also follow me on [Twitter](https://twitter.com/bunnyislewd) or follow me on Chaturbate so you get email notifications when I go live. I may be shy but I LOVE talking with my supporters, so please don't hesitate to drop by stream and chat!  
 
 # Check out my profiles  
 
