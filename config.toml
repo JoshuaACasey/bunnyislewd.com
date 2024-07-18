@@ -86,9 +86,9 @@ copyright = '&copy;2024 Bunnyislewd. All Rights Reserved. <a href="https://rtala
         text = "Cashapp"
         url = "https://cash.app/$Bunnyislewd"
 
-        [[params.links.list2.link]]
-      text = "Wishtender Wishlist"
-      url = "https://www.wishtender.com/Bunnyislewd"
+#        [[params.links.list2.link]]
+#      text = "Wishtender Wishlist"
+#      url = "https://www.wishtender.com/Bunnyislewd"
 
       [[params.links.list2.link]]
         text = "Amazon Wishlist"

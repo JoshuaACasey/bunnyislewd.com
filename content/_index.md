@@ -23,12 +23,11 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 
 - [Chaturbate](https://chaturbate.com/bunnyislewd/)  
 - [Onlyfans](https://onlyfans.com/bunnyislewd)  
+- [Twitter](https://twitter.com/bunnyislewd)  
 - [Fansly](https://fansly.com/bunnyislewd)  
 - [Manyvids](https://www.manyvids.com/Activity/bunnyislewd/1003105966/)  
-- [Twitter](https://twitter.com/bunnyislewd)  
 - [Snapchat](https://snapchat.com/add/bunnyislewd)  
 - [Twitch](https://twitch.tv/bunnyisgaming)  
-- [Wishtender Wishlist](https://www.wishtender.com/bunnyislewd)  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
 
 # I do customs!  
@@ -36,6 +35,5 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 - Email me to inquire about customs: bunnyislewd@outlook.com  
 
 # Want to buy me a gift?  
-- [Wishtender](https://www.wishtender.com/bunnyislewd)  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
 - [Cashapp $bunnyislewd](https://cash.app/$BunnyisLewd)  
