@@ -28,12 +28,13 @@ I stream in the pacific west coast time. You should follow me on [Snapchat](http
 - [Manyvids](https://www.manyvids.com/Activity/bunnyislewd/1003105966/)  
 - [Snapchat](https://snapchat.com/add/bunnyislewd)  
 - [Twitch](https://twitch.tv/bunnyisgaming)  
-- [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
+
 
 # I do customs!  
 
 - Email me to inquire about customs: bunnyislewd@outlook.com  
 
 # Want to buy me a gift?  
+- [Throne Wishlist](https://throne.com/bunnyislewd)  
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV)  
 - [Cashapp $bunnyislewd](https://cash.app/$BunnyisLewd)  
