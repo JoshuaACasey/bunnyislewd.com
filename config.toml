@@ -8,6 +8,7 @@ title = "Bunnyislewd adult online content creator"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+favicon = false
 
 [params.author]
    name = "Bunnyislewd"
