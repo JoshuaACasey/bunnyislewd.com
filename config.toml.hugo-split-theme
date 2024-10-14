@@ -1,0 +1,110 @@
+# Site settings
+baseURL = "https://bunnyislewd.com"
+languageCode = "en-US"
+title = "Bunnyislewd adult online content creator"
+theme = "hugo-split-theme"
+disableKinds = ["section","taxonomy","taxonomyTerm","RSS","sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+#googleAnalytics = ""
+
+# Copyright
+copyright = '&copy;2024 Bunnyislewd. All Rights Reserved. <a href="https://rtalabel.org" target="_blank" name="Restricted To Adults" rel="noreferrer nofollow"><img src="rtalabel.gif" /></a>'
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Bunnyislewd"
+  description = "Bunnyislewd is an 18+ adult online content creator"
+  shareImage = "images/bluehair.jpg"
+  twitterHandle = "bunnyislewd"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/bluehair2.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Subscribe"
+
+      [[params.links.list1.link]]
+        text = "Chaturbate"
+        url = "https://chaturbate.com/bunnyislewd/"
+
+      [[params.links.list1.link]]
+        text = "Onlyfans"
+        url = "https://onlyfans.com/bunnyislewd"
+
+      [[params.links.list1.link]]
+        text = "Fansly"
+        url = "https://fansly.com/bunnyislewd"
+
+      [[params.links.list1.link]]
+        text = "Twitch"
+        url = "https://www.twitch.tv/bunnyisgaming"
+
+        [[params.links.list1.link]]
+          text = "Manyvids"
+          url = "https://www.manyvids.com/Activity/bunnyislewd/1003105966/"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/bunnyislewd"
+
+      [[params.links.list2.link]]
+        text = "Snapchat"
+        url = "https://snapchat.com/add/bunnyislewd"
+
+      [[params.links.list2.link]]
+        text = "Cashapp"
+        url = "https://cash.app/$Bunnyislewd"
+
+#        [[params.links.list2.link]]
+#      text = "Throne Wishlist"
+#      url = "https://throne.com/bunnyislewd"
+
+      [[params.links.list2.link]]
+        text = "Amazon Wishlist"
+        url = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Contact"
+
+      [[params.links.list3.link]]
+        text = "Email me about custom content"
+        url = "mailto:bunnyislewd@outlook.com"
+
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
