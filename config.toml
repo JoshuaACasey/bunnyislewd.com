@@ -8,8 +8,8 @@ title = "Bunnyislewd adult online content creator"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
-#favicon = false
-favicon = "favicon.ico"
+favicon = false
+#favicon = "favicon.ico"
 
 [params.author]
    name = "Bunnyislewd"
@@ -29,6 +29,7 @@ favicon = "favicon.ico"
      { snapchat = "https://snapchat.com/add/bunnyislewd" },
      { link = { href = "https://www.manyvids.com/Feed/bunnyislewd/1003105966", text = "Manyvids", icon = "" } },
      { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist", icon = "gifts" } },
+     
     # { link = "https://link-to-some-website.com/" },
     { amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
     # { apple = "https://www.apple.com" },
@@ -72,6 +73,7 @@ favicon = "favicon.ico"
     # { x = "" },
     # { youtube = "" },
     { email = "mailto:bunnyislewd@outlook.com" },
+    { link = { href = "https://linktr.ee/Bunnyislewd", text = "Linktree", icon = "" } },
   ]
 
 [module]
