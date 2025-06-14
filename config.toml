@@ -16,8 +16,6 @@ name = "Bunnyislewd"
 headline = "18+ camslut and content creator"
 image = "images/frontal.jpg"                 # path relative to static directory
 
-#  { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
-#  { link = { href = "styles/", text = "All the link styles", target = "_self" } },
 links = [
     { link = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp", icon = "cashapp" } },
     { link = { href = "https://chaturbate.com/bunnyislewd", text = "Chaturbate", icon = "" } },
@@ -74,9 +72,11 @@ links = [
     # { x = "" },
     # { youtube = "" },
     { link = { href = "https://stripchat.com/bunnyislewd", text = "Stripchat", icon = "" } },
+    { link = { href = "https://www.sextpanther.com/bunnyislewd", text = "Sextpanther", icon = "sms" } },
     { email = "mailto:bunnyislewd@outlook.com" },
     { link = { href = "https://linktr.ee/Bunnyislewd", text = "Linktree", icon = "" } },
-]
+] #  { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
+#  { link = { href = "styles/", text = "All the link styles", target = "_self" } },
 
 [module]
 [module.hugoVersion]
