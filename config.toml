@@ -27,7 +27,8 @@ favicon = false
 [params.author]
 name = "Bunnyislewd"
 headline = "18+ camgirl and adult content creator"
-image = "images/frontal.jpg"                       # path relative to static directory
+#image = "images/frontal.jpg"                       # path relative to static directory
+image = "https://site-files.bunnyislewd.com/frontal.jpg"
 
 links = [
     { link = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp", icon = "cashapp" } },
