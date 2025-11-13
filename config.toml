@@ -28,7 +28,8 @@ favicon = false
 name = "Bunnyislewd"
 headline = "18+ camgirl and adult content creator"
 #image = "images/frontal.jpg"                       # path relative to static directory
-image = "https://site-files.dftba.xyz/bunnyislewd/frontal.jpg"
+#image = "https://site-files.dftba.xyz/bunnyislewd/frontal.jpg"
+image = "/android-chrome-512x512.png"
 
 links = [
     { link = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp", icon = "cashapp" } },
