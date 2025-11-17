@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 theme = "lynx"
 
-title = "Bunnyislewd adult online content creator"
+title = "Bunnyislewd - Online Adult Content Creator"
 # copyright = "Copy, _right?_ :thinking_face:"
 description = "Bunnyislewd is a shy, naughty, sexually open-minded LGBTQ+ adult content creator."
 keywords = [
@@ -11,12 +11,12 @@ keywords = [
     "bunny xxx",
     "adult content creator",
     "18+",
-    "tits",
-    "petite",
-    "small tits",
-    "small boobs",
-    "boobs",
-    "emo",
+    "bunny tits",
+    "bunny petite",
+    "bunny small tits",
+    "bunny small boobs",
+    "bunny boobs",
+    "bunny emo",
 ]
 
 enableEmoji = true
@@ -26,32 +26,43 @@ favicon = false
 
 [params.author]
 name = "Bunnyislewd"
-headline = "18+ camgirl and adult content creator"
+headline = "18+ Adult Content Creator"
 #image = "images/frontal.jpg"                       # path relative to static directory
 #image = "https://site-files.dftba.xyz/bunnyislewd/frontal.jpg"
 image = "/android-chrome-512x512.png"
 
 links = [
-    { link = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp", icon = "cashapp" } },
+    # Main platforms
     { link = { href = "https://chaturbate.com/bunnyislewd", text = "Chaturbate" } },
     { link = { href = "https://onlyfans.com/bunnyislewd", text = "Onlyfans", icon = "onlyfans" } },
-    { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly" } },
     { snapchat = "https://snapchat.com/add/bunnyislewd" },
+    { cashapp = { href = "https://cash.app/$BunnyisLewd" },
+
+    # Twitter
     { twitter = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($15 via Cashapp)", icon = "twitter" } },
     { twitter = { href = "https://x.com/bunnyislewd", text = "Public Twitter", icon = "twitter" } },
-    { bluesky = "https://bsky.app/profile/bunnyislewd.bsky.social" },
+    { twitter = { href = "https://x.com/missbunnylewd", text = "Findom", icon = "twitter" } },
 
-    { amazon = { href = "https://www.pornhub.com/model/bunnyislewd", text = "Pornhub", icon = "link" } },
-    { link = { href = "https://www.manyvids.com/Feed/bunnyislewd/1003105966", text = "Manyvids", icon = "" } },
-    { link = { href = "https://stripchat.com/bunnyislewd", text = "Stripchat", icon = "link" } },
-    { link = { href = "https://www.sextpanther.com/bunnyislewd", text = "Sextpanther", icon = "link" } },
+    { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly" } },
 
+    # Wishlists
     { link = { href = "https://throne.com/bunnyislewd", text = "Throne Wishlist", icon = "gift" } },
     { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist", icon = "gift" } },
     { amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
 
+    # Misc
     { twitch = "https://twitch.tv/bunnyisgaming" },
+    { bluesky = "https://bsky.app/profile/bunnyislewd.bsky.social" },
+    { amazon = { href = "https://www.pornhub.com/model/bunnyislewd", text = "Pornhub", icon = "link" } },
+    { link = { href = "https://stripchat.com/bunnyislewd", text = "Stripchat", icon = "link" } },
+    { link = { href = "https://www.sextpanther.com/bunnyislewd", text = "Sextpanther", icon = "link" } },
+    { link = { href = "https://www.manyvids.com/Feed/bunnyislewd/1003105966", text = "Manyvids", icon = "" } },
+
+
+    # Email
     { email = "mailto:bunnyislewd@outlook.com" },
+
+    # Linktree
     { link = { href = "https://linktr.ee/Bunnyislewd", text = "Linktree" } },
 
     # { link = "https://link-to-some-website.com/" },
