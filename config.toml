@@ -34,26 +34,25 @@ image = "/android-chrome-512x512.png"
 links = [
     # Main platforms
     { link = { href = "https://chaturbate.com/bunnyislewd", text = "Chaturbate" } },
-    { link = { href = "https://onlyfans.com/bunnyislewd", text = "Onlyfans", icon = "onlyfans" } },
+    { onlyfans = { href = "https://onlyfans.com/bunnyislewd", text = "Onlyfans" } },
     { snapchat = "https://snapchat.com/add/bunnyislewd" },
-    { cashapp = { href = "https://cash.app/$BunnyisLewd" },
+    { cashapp = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp" }},
 
     # Twitter
-    { twitter = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($15 via Cashapp)", icon = "twitter" } },
-    { twitter = { href = "https://x.com/bunnyislewd", text = "Public Twitter", icon = "twitter" } },
-    { twitter = { href = "https://x.com/missbunnylewd", text = "Findom", icon = "twitter" } },
+    { x = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($15 via Cashapp)", icon = "twitter" } },
+    { x = { href = "https://x.com/bunnyislewd", text = "Public Twitter", icon = "twitter" } },
+    { x = { href = "https://x.com/missbunnylewd", text = "Findom", icon = "twitter" } },
 
-    { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly" } },
-
-    # Wishlists
-    { link = { href = "https://throne.com/bunnyislewd", text = "Throne Wishlist", icon = "gift" } },
-    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist", icon = "gift" } },
+     # Wishlists
+    { amazon = { href = "https://throne.com/bunnyislewd", text = "Throne Wishlist", icon = "gift" } },
+    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist" } },
     { amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
 
     # Misc
     { twitch = "https://twitch.tv/bunnyisgaming" },
     { bluesky = "https://bsky.app/profile/bunnyislewd.bsky.social" },
     { reddit = "https://www.reddit.com/u/bunislewd/s/qVXnyGLvlx" },
+    { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly" } },
     { amazon = { href = "https://www.pornhub.com/model/bunnyislewd", text = "Pornhub", icon = "link" } },
     { link = { href = "https://stripchat.com/bunnyislewd", text = "Stripchat", icon = "link" } },
     { link = { href = "https://www.sextpanther.com/bunnyislewd", text = "Sextpanther", icon = "link" } },
