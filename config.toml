@@ -39,7 +39,7 @@ links = [
     { cashapp = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp" }},
 
     # Twitter
-    { x = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($15 via Cashapp)", icon = "twitter" } },
+    { x = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($20 via Cashapp)", icon = "twitter" } },
     { x = { href = "https://x.com/bunnyislewd", text = "Public Twitter", icon = "twitter" } },
     { x = { href = "https://x.com/missbunnylewd", text = "Findom", icon = "twitter" } },
 
