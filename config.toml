@@ -33,15 +33,18 @@ image = "/android-chrome-512x512.png"
 
 links = [
     # Main platforms
-    { link = { href = "https://chaturbate.com/bunnyislewd", text = "Chaturbate" } },
-    { onlyfans = { href = "https://onlyfans.com/bunnyislewd", text = "Onlyfans" } },
+    { link = { href = "https://chaturbate.com/bunnyislewd", text = "Watch me live on Chaturbate" } },
+    { onlyfans = { href = "https://onlyfans.com/bunnyislewd", text = "Subscribe to my Onlyfans to see all my content" } },
     { snapchat = "https://snapchat.com/add/bunnyislewd" },
     { cashapp = { href = "https://cash.app/$BunnyisLewd", text = "Cashapp" }},
+    { bluesky = "https://bsky.app/profile/bunnyislewd.com" },
+    { twitch = "https://twitch.tv/bunnyisgaming" },
+    { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly" } },
 
     # Twitter
-    { x = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($20 via Cashapp)", icon = "twitter" } },
+    #{ x = { href = "https://x.com/bunnyisnude", text = "Private Twitter ($20 via Cashapp)", icon = "twitter" } },
     { x = { href = "https://x.com/bunnyislewd", text = "Public Twitter", icon = "twitter" } },
-    { x = { href = "https://x.com/missbunnylewd", text = "Findom", icon = "twitter" } },
+    #{ x = { href = "https://x.com/missbunnylewd", text = "Findom", icon = "twitter" } },
 
      # Wishlists
     { amazon = { href = "https://throne.com/bunnyislewd", text = "Throne Wishlist", icon = "gift" } },
@@ -49,10 +52,7 @@ links = [
     { amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
 
     # Misc
-    { twitch = "https://twitch.tv/bunnyisgaming" },
-    { bluesky = "https://bsky.app/profile/bunnyislewd.bsky.social" },
     { reddit = "https://www.reddit.com/u/bunislewd/s/qVXnyGLvlx" },
-    { link = { href = "https://fansly.com/bunnyislewd", text = "Fansly" } },
     { amazon = { href = "https://www.pornhub.com/model/bunnyislewd", text = "Pornhub", icon = "link" } },
     { link = { href = "https://stripchat.com/bunnyislewd", text = "Stripchat", icon = "link" } },
     { link = { href = "https://www.sextpanther.com/bunnyislewd", text = "Sextpanther", icon = "link" } },
@@ -60,7 +60,7 @@ links = [
 
 
     # Email
-    { email = "mailto:bunnyislewd@outlook.com" },
+    { email = "mailto:bunnyislewd@yahoo.com" },
 
     # Linktree
     { link = { href = "https://linktr.ee/Bunnyislewd", text = "Linktree" } },
