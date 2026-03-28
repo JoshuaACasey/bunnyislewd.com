@@ -48,11 +48,11 @@ links = [
 
      # Wishlists
     { amazon = { href = "https://throne.com/bunnyislewd", text = "Throne Wishlist", icon = "gift" } },
-    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist" } },
-    { amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
+    #{ amazon = { href = "https://www.amazon.com/hz/wishlist/ls/3R9Y9JHL2K0QD", text = "Stream room renovations/recovery wishlist" } },
+    #{ amazon = "https://www.amazon.com/hz/wishlist/ls/BK7MD246AJAV" },
 
     # Misc
-    { reddit = "https://www.reddit.com/u/bunislewd/s/qVXnyGLvlx" },
+    { reddit = "https://www.reddit.com/u/bunislewd/" },
     { amazon = { href = "https://www.pornhub.com/model/bunnyislewd", text = "Pornhub", icon = "link" } },
     { link = { href = "https://stripchat.com/bunnyislewd", text = "Stripchat", icon = "link" } },
     { link = { href = "https://www.sextpanther.com/bunnyislewd", text = "Sextpanther", icon = "link" } },
